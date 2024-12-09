@@ -1,6 +1,3 @@
-//
-// Created by 18681 on 24-10-6.
-//
 #include "HX711.h"
 
 uint32_t HX711_Buffer;

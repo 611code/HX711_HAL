@@ -1,7 +1,3 @@
-//
-// Created by 18681 on 24-10-6.
-//
-
 #ifndef HX711_HX711_H
 #define HX711_HX711_H
 #include "gpio.h"

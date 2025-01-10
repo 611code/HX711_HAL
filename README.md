@@ -35,7 +35,7 @@ hal
 ### 初始化
 
 ```C
-HX711_Init(void);
+HX711_Init();
 Get_Maopi();  //可选
 ```
 
